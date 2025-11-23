@@ -1,0 +1,8 @@
+# Database Configuration Template
+# Copy this file to application.properties and update with your credentials
+
+db.url=jdbc:mysql://localhost:3306/hotel_reservation_db
+db.username=root
+db.password=YOUR_MYSQL_PASSWORD_HERE
+db.driver=com.mysql.cj.jdbc.Driver
+db.maxConnections=10
