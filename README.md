@@ -475,9 +475,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com
+- GitHub: [@YOUR_USERNAME]([https://github.com/YOUR_USERNAME](https://github.com/adityaisadkar/))
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aditya-isadkar-b73a02258/)
+- Email: adityaisadkar940@gmail.com
 
 ---
 
