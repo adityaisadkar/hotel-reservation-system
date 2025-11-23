@@ -473,9 +473,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Aditya Isadkar**
 
-- GitHub: [@adityaisadkar]([https://github.com/YOUR_USERNAME](https://github.com/adityaisadkar/))
+- GitHub: [@adityaisadkar](https://github.com/adityaisadkar/)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/aditya-isadkar-b73a02258/)
 - Email: adityaisadkar940@gmail.com
 
